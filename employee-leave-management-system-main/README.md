@@ -65,10 +65,6 @@ Edit
 - `PUT /api/leaves/reject/{id}` – Reject leave
 
 ## Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/sukumar2002/employee-leave-management-system.git
 Open the project in IntelliJ IDEA or your preferred IDE.
 
 Configure your MySQL database and update the credentials in application.properties:
