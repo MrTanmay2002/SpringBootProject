@@ -14,11 +14,10 @@ This is a Spring Boot-based RESTful web application that allows management of em
 
 - Java 17
 - Spring Boot
-- Spring Data JPA
-- Hibernate
+- Hibernate JPA
 - MySQL
 - Postman (API Testing)
-- IntelliJ IDEA
+- Eclipse
 
 ## Project Structure
 
@@ -69,19 +68,6 @@ Open the project in IntelliJ IDEA or your preferred IDE.
 
 Configure your MySQL database and update the credentials in application.properties:
 
-properties
-Copy
-Edit
-spring.datasource.url=jdbc:mysql://localhost:3306/employee_db
-spring.datasource.username=root
-spring.datasource.password=sukumar2002
-Run the application:
-
-bash
-Copy
-Edit
-mvn spring-boot:run
-Screenshots
 
 Author
-Sukumar Savarapu
+Tanmay Khobragade
