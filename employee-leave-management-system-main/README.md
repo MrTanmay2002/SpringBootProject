@@ -63,10 +63,7 @@ Edit
 - `PUT /api/leaves/approve/{id}` – Approve leave
 - `PUT /api/leaves/reject/{id}` – Reject leave
 
-## Installation
-Open the project in IntelliJ IDEA or your preferred IDE.
 
-Configure your MySQL database and update the credentials in application.properties:
 
 
 Author
